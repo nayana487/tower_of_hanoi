@@ -1,0 +1,31 @@
+.container {
+  cursor: pointer;
+}
+
+.highlight {
+  border-style: solid;
+}
+
+ .base {
+	width: 100px;
+	height: 10px;
+	background: brown;
+}
+
+.small {
+ width: 50px;
+ height: 50px;
+ background: red;
+}
+
+.medium {
+ width: 70px;
+ height: 70px;
+ background: yellow;
+}
+
+.large {
+ width: 90px;
+ height: 90px;
+ background: blue;
+}
