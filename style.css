@@ -13,6 +13,8 @@ p {
   margin-top: 70px;
   margin-left: 20px;
   margin-right:20px;
+  font-family: Helvetica;
+  line-height: 1.4em;
 }
 
 .main_container{
@@ -56,6 +58,6 @@ p {
 
 .highlight {
   border-style: solid;
-  border-color:green;
+  border-color:black;
   border-width: thick;
 }
