@@ -1,3 +1,10 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
   background-color: lemonchiffon;
 }
@@ -59,5 +66,5 @@ p {
 .highlight {
   border-style: solid;
   border-color:black;
-  border-width: thick;
+  border-width: medium;;
 }
